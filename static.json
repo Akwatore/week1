@@ -21,7 +21,7 @@
     },
     "/fetch/": {
       "X-Author": "Akwa",
-      "Content-Type": "text/plain",
+      "Content-Type": "multipart/form-data",
       "Access-Control-Allow-Origin": "*"
     }
   }
