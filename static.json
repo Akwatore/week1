@@ -18,6 +18,11 @@
       "X-Author": "Akwa",
       "Content-Type": "text/plain",
       "Access-Control-Allow-Origin": "*"
+    },
+    "/fetch/": {
+      "X-Author": "Akwa",
+      "Content-Type": "text/plain",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
