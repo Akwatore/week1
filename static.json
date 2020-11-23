@@ -1,8 +1,7 @@
 {
   "headers": {
-    "/*" {
+    "/*": {
       "X-Author": "Akwa"
     }
   }
-
 }
